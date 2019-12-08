@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DevSocAttendance</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="first_run">hasEntry</string>
+    <string name="api_link">http://devsociety.pythonanywhere.com/api/v1/member/mail/adarshraj_api/12527@123/%s/devsociety@data2k19/</string>
+</resources>
