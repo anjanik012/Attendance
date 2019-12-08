@@ -6,12 +6,12 @@
 
 This app marks the attendance after scanning the unique QR Code of the class.
 
-Made By
+**Made By**
 
-Anjani Kumar
+**Anjani Kumar**
 
 [](https://github.com/anjanik012)
 
 [](anjanik012@gmail.com)
 
-Hackathon and Coding Club, BIT Sindri
+**Hackathon and Coding Club, BIT Sindri**
